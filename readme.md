@@ -6,10 +6,11 @@ CI meridians(持续集成子午线)
 ### PLAN GOAL(计划目的)
 install and deploy the Architect & CI VM environment
 (完成Architect和CI虚拟机的安装和部署)
-##Servers Topology
+
+## Servers Topology
 ![Servers Topology](picture/virtual_machines_v7.png)
 
-##Meridians Server
+## Meridians Server
 
 | NAME            | TYPE | IP            | HOSTNAME                 | OS   |               CORE VERSION |                           OTHERS VERSION |
 | :-------------- | :--- | :------------ | :----------------------- | :--- | -------------------------: | ---------------------------------------: |
