@@ -8,7 +8,9 @@ install and deploy the Architect & CI VM environment
 (完成Architect和CI虚拟机的安装和部署)
 ##Servers Topology
 ![Servers Topology](picture/virtual_machines_v7.png)
+
 ##Meridians Server
+
 | NAME            | TYPE | IP            | HOSTNAME                 | OS   |               CORE VERSION |                           OTHERS VERSION |
 | :-------------- | :--- | :------------ | :----------------------- | :--- | -------------------------: | ---------------------------------------: |
 | 1 Maven SERVER  | C    | 192.168.0.130 | meridians-nexus          | U    |    Sonatype Nexus 2.3.0-04 |                                        - |
